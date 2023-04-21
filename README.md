@@ -1,6 +1,6 @@
-# Security and Privacy deadlines countdown
+# Networking and Measurement deadlines countdown
 
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Based on [sec-deadlines](https://sec-deadlines.github.io/) by [Clement Fung](https://github.com/clementfung), based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
 ## Adding/updating a conference
 
@@ -13,14 +13,19 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 Example record:
 
 ```
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2018
-  link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
-  date: April 24-26
-  place: London, UK
-  tags: [SEC, PRIV]
+- name: NSDI
+  year: 2024
+  date: "April 16 - 18"
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  link: https://www.usenix.org/conference/nsdi24
+  comment: |
+    Abstract deadlines: April 27 (20:59 PST), September 7 (20:59 PST)
+  deadline:
+    - "2023-05-04 20:59"
+    - "2023-09-07 20:59"
+  timezone: America/Los_Angeles
+  place: Santa Clara, California, USA
+  tags: [NET, CONF]
 ```
 
 Descriptions of the fields:
@@ -36,6 +41,7 @@ Descriptions of the fields:
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
 | `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| `note`        | Note, currently used for adding abstract deadlines          |
 
 Fields marked with asterisk (\*) are required.
 
