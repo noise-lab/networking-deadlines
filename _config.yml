@@ -3,7 +3,8 @@ description: Countdowns to top Networking and Measurement conference deadlines.
 author: Andrew Chu
 
 domain: ""
-baseurl: "https://noise-lab.net/networking-deadlines"
+# baseurl: "https://noise-lab.net/networking-deadlines"
+baseurl: ""
 
 twitter_username: hiddenmarkov
 github_username: noise-lab

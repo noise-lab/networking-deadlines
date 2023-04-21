@@ -32,10 +32,9 @@
             <div>
                 <p>
                     Deadlines as iCal: 
-                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-sec.ical">security</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-priv.ical">privacy</a>; 
-                    <a href="{{site.baseurl}}/ical/deadlines-crypto.ical">crypto</a>
+                    <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>;
+                    <a href="{{site.baseurl}}/ical/deadlines-net.ical">networking</a>;
+                    <a href="{{site.baseurl}}/ical/deadlines-measure.ical">measurement</a>
                 </p>
             </div>
           </div>
@@ -75,7 +74,7 @@
                 <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
                 <div class="meta">
                   {{ conf.description }}<br>
-                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="https://google.com/search?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6">
@@ -103,7 +102,7 @@
         {% endfor %}
       </div>
       <footer>
-        Maintained by <a href="https://clementfung.github.io/">Clement Fung</a>. Created by <a href="//twitter.com/{{ site.twitter_username }}">Bogdan Kulynych</a>.
+        Maintained by <a href="https://andrewcchu.github.io/">Andrew Chu</a>. Created by <a href="//twitter.com/{{ site.twitter_username }}">Bogdan Kulynych</a>.
       </footer>
     </div>
 
