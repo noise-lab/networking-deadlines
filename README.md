@@ -2,6 +2,12 @@
 
 Based on [sec-deadlines](https://sec-deadlines.github.io/) by [Clement Fung](https://github.com/clementfung), based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 
+## Building/testing locally
+
+Install [Jekyll](https://jekyllrb.com/docs/installation/)
+Clone and `cd` to repo
+Modify/comment back in the `baseurl` in `_config.yml` to be blank, and run `jekyll serve`
+
 ## Adding/updating a conference
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
