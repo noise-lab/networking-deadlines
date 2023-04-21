@@ -4,9 +4,10 @@ Based on [sec-deadlines](https://sec-deadlines.github.io/) by [Clement Fung](htt
 
 ## Building/testing locally
 
-Install [Jekyll](https://jekyllrb.com/docs/installation/)
-Clone and `cd` to repo
-Modify/comment back in the `baseurl` in `_config.yml` to be blank, and run `jekyll serve`
+1. Dependency: install [Jekyll](https://jekyllrb.com/docs/installation/)
+2. Clone and `cd` to repo
+3. Modify/comment back in the `baseurl` in `_config.yml` to be blank
+4. Run `jekyll serve` from base directory
 
 ## Adding/updating a conference
 
