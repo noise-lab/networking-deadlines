@@ -49,6 +49,31 @@
   place: Paris, France
   tags: [NET, CONF]
 
+- name: IEEE INFOCOM
+  year: 2024
+  date: "TBA"
+  description: IEEE International Conference on Computer Communications
+  link: https://infocom2024.ieee-infocom.org/
+  comment: |
+    Abstract deadline: TBA
+  deadline: ["TBA"]
+  place: TBA
+  tags: [NET, CONF]
+
+- name: CCR
+  year: 2023
+  date: "Rolling"
+  description: SIGCOMM Computer Communication REview
+  link: https://ccronline.sigcomm.org/
+  deadline:
+    - "2023-03-02 06:59"
+    - "2023-06-02 06:59"
+    - "2023-09-02 06:59"
+    - "2023-12-02 06:59"
+  timezone: America/New_York
+  place: N/A
+  tags: [NET]
+
 # Measurement
 - name: PAM
   year: 2024
@@ -80,31 +105,6 @@
   deadline: ["2023-05-26 23:59"]
   place: Montréal, Quebec, Canada
   tags: [MEASURE, CONF]
-
-- name: IEEE INFOCOM
-  year: 2024
-  date: "TBA"
-  description: IEEE International Conference on Computer Communications
-  link: https://infocom2024.ieee-infocom.org/
-  comment: |
-    Abstract deadline: TBA
-  deadline: ["TBA"]
-  place: TBA
-  tags: [NET, CONF]
-
-- name: CCR
-  year: 2023
-  date: "Rolling"
-  description: SIGCOMM Computer Communication REview
-  link: https://ccronline.sigcomm.org/
-  deadline:
-    - "2023-03-02 06:59" 
-    - "2023-06-02 06:59"
-    - "2023-09-02 06:59"
-    - "2023-12-02 06:59"
-  timezone: America/New_York
-  place: N/A
-  tags: [NET]
 
 - name: SIGMETRICS
   year: 2023
