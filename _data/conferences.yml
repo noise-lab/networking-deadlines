@@ -27,7 +27,7 @@
 - name: CCR
   year: 2023
   date: "Rolling"
-  description: SIGCOMM Computer Communication REview
+  description: SIGCOMM Computer Communication Review
   link: https://ccronline.sigcomm.org/
   deadline:
     - "2023-03-02 06:59"
