@@ -27,11 +27,13 @@
           </div>
           <div class="col-xs-12">
             {{ site.description }}
+
             <p>To add/update a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+            <p><b><i><u>Deadlines auto-display in the time zone of the viewer (unless specified).</u></i></b>
             <p>Last update: {{ site.time | date: "%-d %B %Y" }}
             <div>
                 <p>
-                    Deadlines as iCal: 
+                    Download deadlines as iCal:
                     <a href="{{site.baseurl}}/ical/deadlines-all.ical">all</a>;
                     <a href="{{site.baseurl}}/ical/deadlines-net.ical">networking</a>;
                     <a href="{{site.baseurl}}/ical/deadlines-measure.ical">measurement</a>
