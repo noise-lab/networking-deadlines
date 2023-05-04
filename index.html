@@ -76,7 +76,7 @@
                 <h2><a href="{{conf.link}}">{{conf.name}} {{conf.year}}</a></h2>
                 <div class="meta">
                   {{ conf.description }}<br>
-                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a href="https://google.com/search?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
+                  {{conf.date | replace: '-', '–'}} {% if conf.place %}// <a target="_blank" rel="noopener noreferrer" href="https://google.com/search?q={{conf.place}}">{{conf.place}}</a>{% endif %}<br>
                 </div>
               </div>
               <div class="col-xs-12 col-sm-6">
