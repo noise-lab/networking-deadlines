@@ -43,8 +43,6 @@
   date: "November 28 - 29"
   description: ACM Workshop on Hot Topics in Networks
   link: https://conferences.sigcomm.org/hotnets/2023/
-  comment: |
-    Abstract deadline: TBA
   deadline: ["2023-06-30 17:59:59"]
   timezone: America/New_York
   place: Boston, Massachusetts, USA
