@@ -50,13 +50,13 @@
 
 - name: IEEE INFOCOM
   year: 2024
-  date: "TBA"
+  date: "May 20 - 23"
   description: IEEE International Conference on Computer Communications
   link: https://infocom2024.ieee-infocom.org/
   comment: |
-    Abstract deadline: TBA
-  deadline: ["TBA"]
-  place: TBA
+    Abstract deadline: July 23 (23:59 AoE)
+  deadline: ["2023-07-30 23:59:59"]
+  place: Vancouver, British Columbia, Canada
   tags: [NET, CONF]
 
 - name: SIGCOMM
