@@ -97,7 +97,9 @@
   date: "May 13 - 17"
   description: The Web Conference
   link: https://www2024.thewebconf.org/
-  deadline: ["TBA"]
+  comment: |
+    Abstract deadlines: October 5 (23:59 AoE)
+  deadline: ["2023-10-12 23:59"]
   place: Singapore
   tags: [MEASURE, CONF]
 
