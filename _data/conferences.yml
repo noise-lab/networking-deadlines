@@ -48,6 +48,15 @@
   place: Boston, Massachusetts, USA
   tags: [NET, SHOP]
 
+- name: Online FOCI
+  year: 2024
+  date: "February 19"
+  description: Free and Open Communications on the Internet
+  link: https://foci.community/foci24.html
+  deadline: ["2023-11-17"]
+  place: Virtual
+  tags: [NET, CONF]
+
 - name: IEEE INFOCOM
   year: 2024
   date: "May 20 - 23"
@@ -85,11 +94,13 @@
 
 - name: PAM
   year: 2024
-  date: "TBA"
+  date: "March 11 - 13"
   description: Passive and Active Measurement Conference
-  link: https://pam2024.networks.imdea.org/
-  deadline: ["TBA"]
-  place: TBA
+  link: https://pam2024.cs.northwestern.edu/
+  comment: |
+    Registration deadline: October 28th 2023 AoE (October 29th 11:59:59AM UTC)
+  deadline: ["2023-11-02 23:59:59"]
+  place: Virtual
   tags: [MEASURE, CONF]
 
 - name: WWW
