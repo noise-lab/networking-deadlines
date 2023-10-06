@@ -1,4 +1,5 @@
 # By default, "timezone" is AoE
+# Deadline format: YYYY-MM-DD
 
 # Networking
 - name: NSDI
@@ -24,7 +25,7 @@
     Registration deadlines: November 27, June 20
   deadline:
     - "2023-12-04 24:00"
-    - "2024-27-06 24:00"
+    - "2024-06-27 24:00"
   place: TBA
   tags: [NET, CONF]
 
