@@ -74,15 +74,15 @@
   tags: [NET, CONF]
 
 - name: SIGCOMM
-  year: 2023
-  date: "September 10 - 14"
+  year: 2024
+  date: "August 4 - 8"
   description: Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
-  link: https://conferences.sigcomm.org/sigcomm/2023/
+  link: https://www.sigcomm.org/sites/default/files/SIGCOMM_CFP_2024.html/
   comment: |
-    Abstract deadline: February 28 (23:59 UTC)
-  deadline: ["2023-02-15 23:59"]
+    Abstract deadline: January 26 (23:59 UTC)
+  deadline: ["2024-02-02 23:59"]
   timezone: Etc/UTC
-  place: New York City, New York, USA
+  place: Sydney, Australia
   tags: [NET, CONF]
 
 # Measurement
