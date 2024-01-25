@@ -133,13 +133,13 @@
   place: Venice, Italy
   tags: [MEASURE, CONF]
 
-  - name: IMC
-  year: 2024
-  date: "November 4 - 6"
-  description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2024
-  comment: |
-    Abstract deadline: May 8 (23:59 AoE)
-  deadline: ["2024-05-15 23:59"]
-  place: Madrid, Spain
-  tags: [MEASURE, CONF]
+- name: IMC
+year: 2024
+date: "November 4 - 6"
+description: ACM/SIGCOMM Internet Measurement Conference
+link: https://conferences.sigcomm.org/imc/2024
+comment: |
+  Abstract deadline: May 8 (23:59 AoE)
+deadline: ["2024-05-15 23:59"]
+place: Madrid, Spain
+tags: [MEASURE, CONF]
