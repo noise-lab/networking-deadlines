@@ -29,15 +29,15 @@
   tags: [NET, CONF]
 
 - name: CCR
-  year: 2023
+  year: 2024
   date: "Rolling"
   description: SIGCOMM Computer Communication Review
   link: https://ccronline.sigcomm.org/
   deadline:
-    - "2023-03-02 06:59"
-    - "2023-06-02 06:59"
-    - "2023-09-02 06:59"
-    - "2023-12-02 06:59"
+    - "2024-03-01 06:59"
+    - "2024-06-01 06:59"
+    - "2024-09-01 06:59"
+    - "2024-12-01 06:59"
   timezone: America/New_York
   place: N/A
   tags: [NET]
@@ -86,14 +86,14 @@
 
 # Measurement
 - name: IMC
-  year: 2023
-  date: "October 24 - 26"
+  year: 2024
+  date: "November 4 - 6"
   description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2023/
+  link: https://conferences.sigcomm.org/imc/2024
   comment: |
-    Abstract deadline: May 20 (23:59 AoE)
-  deadline: ["2023-05-26 23:59"]
-  place: Montréal, Québec, Canada
+    Abstract deadline: May 8 (23:59 AoE)
+  deadline: ["2024-05-15 23:59"]
+  place: Madrid, Spain
   tags: [MEASURE, CONF]
 
 - name: PAM
@@ -130,15 +130,4 @@
     - "2023-10-11 23:59"
     - "2024-01-31 23:59"
   place: Venice, Italy
-  tags: [MEASURE, CONF]
-  
-- name: IMC
-  year: 2024
-  date: "November 4 - 6"
-  description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2024
-  comment: |
-    Abstract deadline: May 8 (23:59 AoE)
-  deadline: ["2024-05-15 23:59"]
-  place: Madrid, Spain
   tags: [MEASURE, CONF]
