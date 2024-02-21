@@ -52,13 +52,13 @@
   place: Boston, Massachusetts, USA
   tags: [NET, SHOP]
 
-- name: Online FOCI
+- name: FOCI
   year: 2024
-  date: "February 19"
+  date: "July 15"
   description: Free and Open Communications on the Internet
   link: https://foci.community/foci24.html
-  deadline: ["2023-11-17"]
-  place: Virtual
+  deadline: ["2024-04-15"]
+  place: Bristol, United Kingdom
   tags: [NET, CONF]
 
 - name: IEEE INFOCOM
