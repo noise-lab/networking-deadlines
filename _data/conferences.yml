@@ -43,13 +43,12 @@
   tags: [NET]
 
 - name: HotNets
-  year: 2023
-  date: "November 28 - 29"
+  year: 2024
+  date: "November 18 - 119"
   description: ACM Workshop on Hot Topics in Networks
-  link: https://conferences.sigcomm.org/hotnets/2023/
-  deadline: ["2023-06-30 17:59:59"]
-  timezone: America/New_York
-  place: Boston, Massachusetts, USA
+  link: https://conferences.sigcomm.org/hotnets/2024/
+  deadline: ["2024-06-27"]
+  place: Irvine, California, USA
   tags: [NET, SHOP]
 
 - name: FOCI
