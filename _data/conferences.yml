@@ -44,7 +44,7 @@
 
 - name: HotNets
   year: 2024
-  date: "November 18 - 119"
+  date: "November 18 - 19"
   description: ACM Workshop on Hot Topics in Networks
   link: https://conferences.sigcomm.org/hotnets/2024/
   deadline: ["2024-06-27"]
