@@ -17,14 +17,14 @@
 
 - name: CoNEXT
   year: 2024
-  date: "TBA"
+  date: "December 9 - 12"
   description: International Conference on emerging Networking EXperiments and Technologies
   link: https://conferences.sigcomm.org/co-next/2024
   comment: |
-    Registration deadlines: November 27, June 20
+    Registration deadlines: November 27, June 7
   deadline:
     - "2023-12-04 24:00"
-    - "2024-06-27 24:00"
+    - "2024-06-14 23:59"
   place: Los Angeles, California, USA
   tags: [NET, CONF]
 
