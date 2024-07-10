@@ -97,25 +97,25 @@
   tags: [MEASURE, CONF]
 
 - name: PAM
-  year: 2024
-  date: "March 11 - 13"
+  year: 2025
+  date: "March 10 - 12"
   description: Passive and Active Measurement Conference
-  link: https://pam2024.cs.northwestern.edu/
+  link: https://udesa.edu.ar/pam25
   comment: |
-    Registration deadline: October 28th 2023 AoE (October 29th 11:59:59AM UTC)
-  deadline: ["2023-11-02 23:59:59"]
+    Registration deadline: October 1, 2024 AoE (October 2, 11:59:59 AM UTC)
+  deadline: ["2023-10-08 23:59:59"]
   place: Virtual
   tags: [MEASURE, CONF]
 
 - name: WWW
-  year: 2024
-  date: "May 13 - 17"
+  year: 2025
+  date: "April 28 - May 2"
   description: The Web Conference
-  link: https://www2024.thewebconf.org/
+  link: https://www2025.thewebconf.org/
   comment: |
-    Abstract deadlines: October 5 (23:59 AoE)
-  deadline: ["2023-10-12 23:59"]
-  place: Singapore
+    Abstract deadlines: October 3, 2024 (23:59 AoE)
+  deadline: ["2024-10-10 23:59"]
+  place: Sydney, New South Wales, Australia
   tags: [MEASURE, CONF]
 
 - name: SIGMETRICS
