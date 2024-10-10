@@ -16,16 +16,16 @@
   tags: [NET, CONF]
 
 - name: CoNEXT
-  year: 2024
-  date: "December 9 - 12"
+  year: 2025
+  date: "December 1 - 4"
   description: International Conference on emerging Networking EXperiments and Technologies
-  link: https://conferences.sigcomm.org/co-next/2024
+  link: https://conferences.sigcomm.org/co-next/2025
   comment: |
-    Registration deadlines: November 27, June 7
+    Registration deadlines: November 28
   deadline:
-    - "2023-12-04 24:00"
+    - "2023-12-05 24:00"
     - "2024-06-14 23:59"
-  place: Los Angeles, California, USA
+  place: Hong Kong, China
   tags: [NET, CONF]
 
 - name: CCR
@@ -86,14 +86,16 @@
 
 # Measurement
 - name: IMC
-  year: 2024
-  date: "November 4 - 6"
+  year: 2025
+  date: "October 28 - 31"
   description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2024
+  link: https://conferences.sigcomm.org/imc/2025
   comment: |
-    Abstract deadline: May 8 (23:59 AoE)
-  deadline: ["2024-05-15 23:59"]
-  place: Madrid, Spain
+    Abstract deadlines: November 14, 2024 (23:59 AoE), May 8, 2025 (23:59 AoE)
+  deadline:
+    - "2024-11-21 23:59"
+    - "2025-05-15 23:59"
+  place: Madison, Wisconsin, USA
   tags: [MEASURE, CONF]
 
 - name: PAM
@@ -113,7 +115,7 @@
   description: The Web Conference
   link: https://www2025.thewebconf.org/
   comment: |
-    Abstract deadlines: October 3, 2024 (23:59 AoE)
+    Abstract deadline: October 3, 2024 (23:59 AoE)
   deadline: ["2024-10-10 23:59"]
   place: Sydney, New South Wales, Australia
   tags: [MEASURE, CONF]
