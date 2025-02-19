@@ -33,11 +33,10 @@
   description: SIGCOMM Computer Communication Review
   link: https://ccronline.sigcomm.org/
   deadline:
-    - "2024-03-01 06:59"
-    - "2024-06-01 06:59"
-    - "2024-09-01 06:59"
-    - "2024-12-01 06:59"
-  timezone: America/New_York
+    - "2025-03-01 23:59"
+    - "2025-06-01 23:59"
+    - "2025-09-01 23:59"
+    - "2025-12-01 23:59"
   place: N/A
   tags: [NET]
 
