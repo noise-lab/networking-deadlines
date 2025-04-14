@@ -21,9 +21,10 @@
   description: International Conference on emerging Networking EXperiments and Technologies
   link: https://conferences.sigcomm.org/co-next/2025
   comment: |
-    Registration deadlines: November 28
+    Registration deadlines: November 28, 2024; May 29, 2025
   deadline:
     - "2024-12-05 24:00"
+    - "2025-06-05 24:00"
   place: Hong Kong, China
   tags: [NET, CONF]
 
