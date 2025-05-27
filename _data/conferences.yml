@@ -42,12 +42,12 @@
   tags: [NET]
 
 - name: HotNets
-  year: 2024
-  date: "November 18 - 19"
+  year: 2025
+  date: "November 17 - 18"
   description: ACM Workshop on Hot Topics in Networks
-  link: https://conferences.sigcomm.org/hotnets/2024/
-  deadline: ["2024-06-27"]
-  place: Irvine, California, USA
+  link: https://conferences.sigcomm.org/hotnets/2025/
+  deadline: ["2025-07-01"]
+  place: College Park, Maryland, USA
   tags: [NET, SHOP]
 
 - name: FOCI
