@@ -121,14 +121,14 @@
 
 - name: SIGMETRICS
   year: 2025
-  date: "June 9 - 13"
+  date: "June 8 - 12"
   description: International Conference on Measurement and Modeling of Computer Systems
-  link: https://www.sigmetrics.org/sigmetrics2025
+  link: https://www.sigmetrics.org/sigmetrics2026
   comment: |
-    Abstract deadlines: July 31, 2024 (23:59 AoE), October 2, 2024 (23:59 AoE), January 15, 2025 (23:59 AoE)
+    Abstract deadlines: July 22, 2025 (23:59 AoE), October 7, 2025 (23:59 AoE), January 6, 2026 (23:59 AoE)
   deadline:
-    - "2024-08-07 23:59"
-    - "2024-10-09 23:59"
-    - "2025-01-22 23:59"
-  place: Stony Brook, New York, USA
+    - "2025-07-29 23:59"
+    - "2025-10-14 23:59"
+    - "2026-01-13 23:59"
+  place: Ann Arbor, Michigan, USA
   tags: [MEASURE, CONF]
