@@ -50,13 +50,22 @@
   place: College Park, Maryland, USA
   tags: [NET, SHOP]
 
-- name: FOCI
-  year: 2024
-  date: "July 15"
+- name: FOCI Online
+  year: 2026
+  date: "February 19"
   description: Free and Open Communications on the Internet
-  link: https://foci.community/foci24.html
-  deadline: ["2024-04-15"]
-  place: Bristol, United Kingdom
+  link: https://foci.community/#cfp
+  deadline: ["2025-11-07"]
+  place: Virtual
+  tags: [NET, CONF]
+
+- name: FOCI In-person
+  year: 2026
+  date: "July 20"
+  description: Free and Open Communications on the Internet
+  link: https://foci.community/#cfp
+  deadline: ["TBD"]
+  place: Calgary, Canada
   tags: [NET, CONF]
 
 - name: IEEE INFOCOM
