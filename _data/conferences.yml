@@ -94,16 +94,16 @@
 
 # Measurement
 - name: IMC
-  year: 2025
-  date: "October 28 - 31"
+  year: 2026
+  date: "November 3 - 6"
   description: ACM/SIGCOMM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2025
+  link: https://conferences.sigcomm.org/imc/2026
   comment: |
-    Abstract deadlines: November 14, 2024 (23:59 AoE), May 8, 2025 (23:59 AoE)
+    Abstract deadlines: November 13, 2025 (23:59 AoE), April 22, 2026 (23:59 AoE)
   deadline:
-    - "2024-11-21 23:59"
-    - "2025-05-15 23:59"
-  place: Madison, Wisconsin, USA
+    - "2025-11-30 23:59"
+    - "2026-04-29 23:59"
+  place: Karlsruhe, Germany
   tags: [MEASURE, CONF]
 
 - name: PAM
