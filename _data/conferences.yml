@@ -154,3 +154,20 @@
   timezone: Europe/Istanbul
   place: Istanbul, Turkey
   tags: [NET, CONF]
+
+- name: ADHOCNETS
+year: 2025
+date: "December 4 - 5"
+description: 16th EAI International Conference on Ad Hoc Networks
+link: https://adhocnets.eai-conferences.org/2025/
+deadline:
+ - "2025-10-20 23:59"
+timezone: Europe/Istanbul
+place: Istanbul, Turkey
+tags: [NET, CONF]
+
+
+
+
+
+  
