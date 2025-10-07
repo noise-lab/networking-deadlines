@@ -141,3 +141,16 @@
     - "2026-01-13 23:59"
   place: Ann Arbor, Michigan, USA
   tags: [MEASURE, CONF]
+
+  - name: EAI WICON
+  year: 2025
+  date: "December 4 - 5"
+  description: 18th EAI International Conference on Wireless Internet
+  link: https://wicon.eai-conferences.org/2025/
+  comment: |
+    Camera-ready deadline: October 17, 2025
+  deadline:
+    - "2025-06-27 23:59"
+  timezone: Europe/Istanbul
+  place: Istanbul, Turkey
+  tags: [NET, CONF]
