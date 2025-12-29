@@ -16,16 +16,16 @@
   tags: [NET, CONF]
 
 - name: CoNEXT
-  year: 2025
-  date: "December 1 - 4"
+  year: 2026
+  date: "December 7 - 10"
   description: International Conference on emerging Networking EXperiments and Technologies
-  link: https://conferences.sigcomm.org/co-next/2025
+  link: https://conferences.sigcomm.org/co-next/2026
   comment: |
-    Registration deadlines: November 28, 2024; May 29, 2025
+    Registration deadlines: December 5, 2025; May 29, 2026
   deadline:
-    - "2024-12-05 24:00"
-    - "2025-06-05 24:00"
-  place: Hong Kong, China
+    - "2025-12-12 24:00"
+    - "2026-06-05 24:00"
+  place: Utrecht, Netherlands
   tags: [NET, CONF]
 
 - name: CCR
@@ -84,12 +84,12 @@
   year: 2025
   date: "September 8 - 11"
   description: Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
-  link: https://conferences.sigcomm.org/sigcomm/2025/
+  link: https://conferences.sigcomm.org/sigcomm/2026
   comment: |
-    Abstract deadline: January 24, 2025 (23:59 UTC)
-  deadline: ["2025-01-31 23:59"]
+    Abstract deadline: January 30, 2026 (23:59 UTC)
+  deadline: ["2026-02-06 23:59"]
   timezone: Etc/UTC
-  place: Coimbra, Portugal
+  place: Denver, Colorado, USA
   tags: [NET, CONF]
 
 # Measurement
