@@ -47,19 +47,19 @@
   tags: [NET, CONF]
 
 - name: IEEE INFOCOM
-  year: 2025
-  date: "May 19 - 22"
+  year: 2026
+  date: "May 18 - 21"
   description: IEEE International Conference on Computer Communications
-  link: https://infocom2025.ieee-infocom.org/
+  link: https://infocom2026.ieee-infocom.org/
   comment: |
-    Abstract deadline: July 24, 2024 (23:59 PDT)
-  deadline: ["2024-07-31 23:59:59"]
+    Abstract deadline: July 24, 2025 (23:59 AoE)
+  deadline: ["2025-07-31 23:59:59"]
   timezone: America/Los_Angeles
-  place: London, United Kingdom
+  place: Tokyo, Japan
   tags: [NET, CONF]
 
 - name: SIGCOMM
-  year: 2025
+  year: 2026
   date: "September 8 - 11"
   description: Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication
   link: https://conferences.sigcomm.org/sigcomm/2026
@@ -107,7 +107,7 @@
   tags: [MEASURE, CONF]
 
 - name: SIGMETRICS
-  year: 2025
+  year: 2026
   date: "June 8 - 12"
   description: International Conference on Measurement and Modeling of Computer Systems
   link: https://www.sigmetrics.org/sigmetrics2026
