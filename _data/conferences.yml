@@ -3,16 +3,17 @@
 
 # Networking
 - name: NSDI
-  year: 2026
-  date: "May 4 - 6"
+  year: 2027
+  date: "May 11 - 13"
   description: USENIX Symposium on Networked Systems Design and Implementation
-  link: https://www.usenix.org/conference/nsdi26
+  link: https://www.usenix.org/conference/nsdi27
   comment: |
-    Abstract deadlines: April 18, September 11
+    Abstract deadlines: April 16, September 10
   deadline:
-    - "2025-04-25 23:59:59"
-    - "2025-09-18 23:59:59"
-  place: Renton, WA, USA
+    - "2026-04-23 23:59:59"
+    - "2026-09-17 23:59:59"
+  timezone: America/Toronto
+  place: Providence, RI, USA
   tags: [NET, CONF]
 
 - name: CoNEXT
